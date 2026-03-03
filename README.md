@@ -10,6 +10,10 @@ Built with **FastAPI** · **Agno Framework** · **Ollama** · **React** · **glo
 
 ---
 
+
+https://github.com/user-attachments/assets/24a99509-d689-44c4-bbcb-51e1b1dc95cd
+
+
 ## ✨ Features
 
 ### 🌍 3D Globe Visualization
