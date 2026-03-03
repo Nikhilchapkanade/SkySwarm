@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+agno
+ollama
+openai
+websockets
